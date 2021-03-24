@@ -4,7 +4,7 @@ actionText: Get Started
 actionLink: /tag/
 features:
   - title: REACT
-    details: React v16 기본 및 이슈 해결 모음dd
+    details: React v16 기본 및 이슈 해결 모음
   - title: VUE
     details: Vue.js 기본 및 이슈 해결 모음
   - title: TS, JS
