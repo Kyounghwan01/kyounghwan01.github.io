@@ -1,0 +1,31 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyounghwan01/kyounghwan01.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyounghwan01/kyounghwan01.github.io/issues"
+  },
+  "homepage": "https://github.com/Kyounghwan01/kyounghwan01.github.io#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.5.2",
+    "@vuepress/plugin-google-analytics": "^1.5.2",
+    "@vuepress/plugin-last-updated": "^1.5.2",
+    "vuepress": "^1.5.2",
+    "vuepress-plugin-google-adsense": "^0.1.1",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
