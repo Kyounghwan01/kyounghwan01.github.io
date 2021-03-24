@@ -24,17 +24,17 @@ module.exports = {
   "google-site-verification": "J993cuJJ-yFppfJKY8rMx3SzsN-3ZMBEM4uY7Jj075A",
   themeConfig: {
     nav: [
-      { text: "Tag", link: "/tag/" },
-      { text: "React", link: "/React/" },
-      { text: "Vue", link: "/Vue/" },
-      { text: "JS", link: "/JS/" },
-      { text: "TS", link: "/TS/" },
-      { text: "기타", link: "/etc/" },
-      { text: "개발일기", link: "/dev-report/" },
+      { text: "Tag", link: "/blog/tag/" },
+      { text: "React", link: "/blog/React/" },
+      { text: "Vue", link: "/blog/Vue/" },
+      { text: "JS", link: "/blog/JS/" },
+      { text: "TS", link: "/blog/TS/" },
+      { text: "기타", link: "/blog/etc/" },
+      { text: "개발일기", link: "/blog/dev-report/" },
       {
         text: "Info",
         items: [
-          { text: "About", link: "/about/" },
+          { text: "About", link: "/blog/about/" },
           { text: "Github", link: "https://github.com/Kyounghwan01" },
           {
             text: "블로그 건의하기",
