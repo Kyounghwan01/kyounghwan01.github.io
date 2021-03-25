@@ -3,7 +3,11 @@ const routes = ["Tag", "Vue", "React", "JS", "TS", "etc", "dev-report"];
 const createSidebar = () => {
   const sidebar = {};
   for (const route of routes) {
-    Object.assign(sidebar, require("../" + route));
+    if (route === "dev-report" || route === "Tag") {
+      Object.assign(sidebar, require("../blog/" + route));
+    } else {
+      Object.assign(sidebar, require("../" + route));
+    }
   }
   return sidebar;
 };
