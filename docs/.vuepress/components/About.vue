@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="titles">
-      <h1>노경환 배포 테스트</h1>
+      <h1>노경환</h1>
     </div>
     <div class="content">
       <div class="context">
