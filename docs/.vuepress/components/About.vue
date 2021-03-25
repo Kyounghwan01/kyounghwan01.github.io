@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="titles">
-      <h1>노경환</h1>
+      <h1>노경환 배포 테스트</h1>
     </div>
     <div class="content">
       <div class="context">
@@ -81,7 +81,7 @@
               <div class="experinces-description__content__desc">
                 <div class="experinces-description__content__desc__title">
                   이미지로 구성된 html 파일에 버튼을 생성하고 버튼에 액션을
-                  부여하는 기능 </br>
+                  부여하는 기능 <br />
                   기능을 부여한 페이지 리스트 (crud) 구현 (front, back 구현)
                 </div>
                 <ul>
