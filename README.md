@@ -16,6 +16,9 @@ https://kyounghwan01.github.io/blog/
 - 회사 개발하면서 얻은 인사이트를 기록합니다.
 - 그 외, 공부한 것들을 기록합니다.
 
-1. blog/react로 접근가능하도록 코딩
+1. blog/react로 접근가능하도록 코딩 -> getBuild 함수 수정
+
+- ga잡히는 것 확인
+
 2. blog 리포 내리고 접근 가능한지 확인
 3. 접근 가능하면 이 리포로 갈아타고 접근 불가능하명,,,,,,,redirect밖에 없네
