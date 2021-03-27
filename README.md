@@ -22,3 +22,30 @@ https://kyounghwan01.github.io/blog/
 
 2. blog 리포 내리고 접근 가능한지 확인
 3. 접근 가능하면 이 리포로 갈아타고 접근 불가능하명,,,,,,,redirect밖에 없네
+
+
+https://github.com/stories24/stories24.github.io
+```html
+  
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>도메인 변경으로 인한 포워딩</title>
+    <script type='text/javascript'>
+        var dest = "https://blog.stories.pe.kr";
+        var origin = location.origin;
+        var href = location.href;
+        var destination = href.replace(origin, dest);
+        location.href = destination;
+    </script>
+</head>
+
+<body>
+    도메인 변경으로 인한 포워딩 합니다.
+</body>
+
+</html>
+```
