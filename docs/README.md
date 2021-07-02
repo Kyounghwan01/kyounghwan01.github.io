@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Get Started
-actionLink: /blog/tag/
+actionLink: /blog/
 features:
   - title: REACT
     details: React v16 기본 및 이슈 해결 모음 배포테스트

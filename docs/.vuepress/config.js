@@ -29,16 +29,16 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "Tag", link: "/blog/tag/" },
-      { text: "React", link: "/blog/React/" },
-      { text: "Vue", link: "/blog/Vue/" },
-      { text: "JS", link: "/blog/JS/" },
-      { text: "TS", link: "/blog/TS/" },
-      { text: "기타", link: "/blog/etc/" },
-      { text: "개발일기", link: "/blog/dev-report/" },
+      { text: "React", link: "/React/" },
+      { text: "Vue", link: "/Vue/" },
+      { text: "JS", link: "/JS/" },
+      { text: "TS", link: "/TS/" },
+      { text: "기타", link: "/etc/" },
+      { text: "개발일기", link: "/dev-report/" },
       {
         text: "Info",
         items: [
-          { text: "About", link: "/blog/about/" },
+          { text: "About", link: "/about/" },
           { text: "Github", link: "https://github.com/Kyounghwan01" },
           {
             text: "블로그 건의하기",
