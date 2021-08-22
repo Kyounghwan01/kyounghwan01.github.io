@@ -28,7 +28,7 @@ module.exports = {
   "google-site-verification": "J993cuJJ-yFppfJKY8rMx3SzsN-3ZMBEM4uY7Jj075A",
   themeConfig: {
     nav: [
-      { text: "Tag", link: "/blog/tag/" },
+      { text: "Tag", link: "/blog/Tag/" },
       { text: "React", link: "/React/" },
       { text: "Vue", link: "/Vue/" },
       { text: "JS", link: "/JS/" },
